@@ -1,0 +1,502 @@
+Timestamp,Choose your gender,Age,What is your course?,Your current year of Study,What is your CGPA?,Marital status,Do you have Depression?,Do you have Anxiety?,Do you have Panic attack?,Did you seek any specialist for a treatment?
+08/07/2020 12:02,Female,18,Engineering,Year 1,3.00 - 3.49,No,Yes,Yes,Yes,No
+08/07/2020 12:04,Male,21,Islamic education,Year 2,3.00 - 3.49,No,Yes,Yes,No,Yes
+08/07/2020 12:05,Male,19,BIT,Year 1,3.00 - 3.49,No,Yes,Yes,Yes,No
+08/07/2020 12:06,Female,22,Laws,Year 3,3.00 - 3.49,Yes,Yes,Yes,No,No
+08/07/2020 12:13,Male,23,Mathemathics,Year 4,3.00 - 3.49,No,No,No,No,No
+08/07/2020 12:31,Male,19,Engineering,Year 2,3.50 - 4.00,No,No,No,Yes,No
+08/07/2020 12:32,Female,23,Pendidikan islam,Year 2,3.50 - 4.00 ,Yes,No,No,Yes,No
+08/07/2020 12:33,Female,18,BCS,Year 1,3.50 - 4.00,No,No,Yes,No,No
+08/07/2020 12:35,Female,19,Human Resources,Year 2,2.50 - 2.99,No,Yes,Yes,Yes,Yes
+08/07/2020 12:39,Male,18,Irkhs,Year 1,3.50 - 4.00,No,No,Yes,No,No
+08/07/2020 12:39,Female,20,Psychology,Year 1,3.50 - 4.00,No,No,No,No,No
+08/07/2020 12:39,Female,24,Engineering,Year 3,3.50 - 4.00,Yes,No,No,No,No
+08/07/2020 12:40,Female,18,BCS,Year 1,3.00 - 3.49,No,Yes,Yes,No,No
+08/07/2020 12:41,Male,19,Engineering,Year 1,3.00 - 3.49,No,Yes,Yes,No,Yes
+08/07/2020 12:43,Female,18,KENMS,Year 2,3.50 - 4.00,No,No,Yes,No,No
+08/07/2020 12:43,Male,24,BCS,Year 3,3.50 - 4.00,No,No,No,No,No
+08/07/2020 12:46,Female,24,Accounting ,Year 3,3.00 - 3.49,No,Yes,No,No,No
+08/07/2020 12:52,Female,24,ENM,Year 4,3.00 - 3.49,Yes,Yes,Yes,Yes,No
+08/07/2020 13:05,Female,20,BIT,Year 2,3.50 - 4.00,No,No,No,No,No
+08/07/2020 13:07,Female,18,Marine science,Year 2,3.50 - 4.00,Yes,No,No,Yes,No
+08/07/2020 13:12,Female,19,Engineering,Year 1,3.00 - 3.49,No,Yes,No,Yes,No
+08/07/2020 13:13,Female,18,KOE,Year 2,3.00 - 3.49,No,Yes,Yes,No,No
+08/07/2020 13:13,Female,24,BCS,Year 1,3.50 - 4.00,No,No,No,No,No
+08/07/2020 13:15,Female,24,Engineering,Year 1,3.00 - 3.49,No,Yes,No,No,No
+08/07/2020 13:17,Female,23,BCS,Year 3,3.50 - 4.00,No,No,No,Yes,No
+08/07/2020 13:29,Female,18,Banking Studies,Year 1,3.50 - 4.00,No,No,No,No,No
+08/07/2020 13:35,Female,19,Engineering,Year 1,3.50 - 4.00,No,No,No,No,No
+08/07/2020 13:41,Male,18,Engineering,Year 2,3.00 - 3.49,Yes,Yes,Yes,No,No
+08/07/2020 13:58,Female,24,BIT,Year 3,3.50 - 4.00,Yes,No,No,Yes,Yes
+08/07/2020 14:05,Female,24,BCS,Year 4,3.50 - 4.00,No,No,No,No,No
+08/07/2020 14:27,Female,23,Business Administration,Year 2,3.00 - 3.49,No,Yes,No,No,No
+08/07/2020 14:29,Male,18,BCS,Year 2,3.00 - 3.49,No,Yes,No,No,Yes
+08/07/2020 14:29,Male,19,BCS,Year 1,3.50 - 4.00,No,No,No,Yes,No
+08/07/2020 14:31,Male,18,BCS,Year 2,3.50 - 4.00,Yes,No,No,No,Yes
+08/07/2020 14:41,Female,19,BIT,Year 1,3.00 - 3.49,No,Yes,Yes,Yes,No
+08/07/2020 14:43,Female,18,Engineering,Year 1,2.00 - 2.49,No,Yes,Yes,Yes,Yes
+08/07/2020 14:43,Female,18,Law,Year 3,3.00 - 3.49,No,Yes,Yes,No,No
+08/07/2020 14:45,Female,19,BIT,Year 1,2.50 - 2.99,No,Yes,Yes,Yes,Yes
+08/07/2020 14:47,Female,18,KIRKHS,Year 1,3.50 - 4.00,No,No,No,No,No
+08/07/2020 14:56,Female,24,Engineering,Year 2,2.50 - 2.99,Yes,Yes,Yes,Yes,Yes
+08/07/2020 14:57,Female,24,BIT,Year 3,3.00 - 3.49,No,Yes,Yes,No,No
+08/07/2020 14:57,Female,22,Engineering,Year 4,3.50 - 4.00,No,No,No,No,No
+08/07/2020 14:58,Female,20,Usuluddin ,Year 2,3.00 - 3.49,No,Yes,No,No,No
+08/07/2020 15:07,Male,21,BIT,Year 1,0 - 1.99,No,Yes,Yes,Yes,Yes
+08/07/2020 15:08,Male,23,TAASL,Year 2,3.50 - 4.00,No,No,No,Yes,No
+08/07/2020 15:09,Male,18,BCS,Year 1,3.50 - 4.00,No,No,Yes,Yes,No
+08/07/2020 15:12,Female,19,Engineering,Year 1,3.50 - 4.00,No,No,No,No,No
+08/07/2020 15:14,Female,18,Engine,Year 4,3.50 - 4.00,No,No,No,No,No
+08/07/2020 15:14,Male,24,BCS,Year 2,3.00 - 3.49,No,Yes,No,No,No
+08/07/2020 15:18,Female,24,BCS,Year 3,3.50 - 4.00,No,No,No,Yes,No
+08/07/2020 15:27,Female,23,ALA,Year 1,2.50 - 2.99,Yes,Yes,Yes,Yes,Yes
+08/07/2020 15:37,Female,18,BCS,Year 2,3.50 - 4.00,No,No,No,No,No
+08/07/2020 15:47,Female,19,Biomedical science,Year 3,3.00 - 3.49,No,Yes,No,No,No
+08/07/2020 15:48,Female,20,koe,Year 3,3.00 - 3.49,Yes,Yes,Yes,Yes,No
+08/07/2020 15:57,Female,19,BCS,Year 1,3.50 - 4.00,No,No,No,Yes,Yes
+08/07/2020 15:58,Male,21,BCS,Year 1,3.00 - 3.49,No,No,No,No,No
+08/07/2020 16:08,Male,23,Kirkhs,Year 3,3.50 - 4.00,No,No,No,No,No
+08/07/2020 16:21,Female,20,BENL,Year 3,3.00 - 3.49,No,Yes,Yes,No,No
+08/07/2020 16:22,Female,18,BCS,Year 1,3.50 - 4.00,No,No,No,No,No
+08/07/2020 16:34,Female,23,Benl,Year 1,3.00 - 3.49,No,Yes,No,No,No
+08/07/2020 16:34,Female,18,IT,Year 3,3.00 - 3.49,No,Yes,No,Yes,No
+08/07/2020 16:53,Female,19,BCS,Year 1,3.50 - 4.00,No,No,No,No,No
+08/07/2020 17:05,Female,18,CTS,Year 1,3.50 - 4.00,No,No,No,Yes,No
+08/07/2020 17:37,Female,24,engin,Year 1,3.50 - 4.00,No,No,No,Yes,No
+08/07/2020 17:46,Female,24,Engine,Year 1,3.50 - 4.00,No,No,No,No,No
+08/07/2020 17:50,Female,23,Econs,Year 1,3.50 - 4.00,No,No,No,No,No
+08/07/2020 18:10,Female,18,KOE,Year 1,3.00 - 3.49,No,Yes,Yes,No,No
+08/07/2020 18:11,Male,19,MHSC,Year 1,3.00 - 3.49,Yes,Yes,No,Yes,No
+08/07/2020 19:05,Female,18,Malcom,Year 1,3.50 - 4.00,No,No,No,No,No
+08/07/2020 19:32,Female,24,Kop,Year 4,3.00 - 3.49,No,Yes,Yes,No,No
+08/07/2020 20:36,Female,24,Biomedical science,Year 1,3.00 - 3.49,No,Yes,No,No,No
+08/07/2020 21:21,Female,18,Laws,Year 3,3.50 - 4.00,No,No,No,Yes,No
+08/07/2020 22:35,Female,19,BIT,Year 3,3.00 - 3.49,Yes,Yes,No,No,No
+09/07/2020 06:57,Male,18,Biomedical science,Year 1,0 - 1.99,No,Yes,Yes,Yes,Yes
+09/07/2020 11:43,Male,24,BIT,Year 3,3.50 - 4.00,No,No,Yes,No,No
+09/07/2020 11:57,Female,24,KOE,Year 1,3.50 - 4.00,No,No,Yes,Yes,No
+09/07/2020 13:15,Female,23,Engineering,Year 1,3.00 - 3.49,No,Yes,No,No,No
+09/07/2020 18:24,Female,18,Human Sciences ,Year 2,3.00 - 3.49,No,Yes,No,Yes,No
+13/07/2020 10:07,Female,19,Biotechnology,Year 3,0 - 1.99,No,Yes,Yes,Yes,Yes
+13/07/2020 10:10,Female,18,Engineering,Year 4,3.50 - 4.00,No,No,No,No,No
+13/07/2020 10:11,Female,24,Communication ,Year 2,3.50 - 4.00,Yes,No,No,Yes,No
+13/07/2020 10:12,Female,24,Diploma Nursing,Year 2,3.50 - 4.00,No,No,No,No,No
+13/07/2020 10:12,Female,19,Engineering,Year 1,3.00 - 3.49,No,Yes,Yes,No,No
+13/07/2020 10:12,Female,19,Pendidikan Islam ,Year 2,3.00 - 3.49,No,Yes,No,No,No
+13/07/2020 10:14,Male,23,Radiography,Year 1,3.00 - 3.49,No,Yes,No,No,No
+13/07/2020 10:33,Female,18,psychology,Year 1,3.50 - 4.00,No,No,No,No,Yes
+13/07/2020 10:34,Female,19,Fiqh fatwa ,Year 3,3.00 - 3.49,No,Yes,No,No,No
+13/07/2020 11:46,Female,18,psychology,Year 1,3.50 - 4.00,No,No,No,Yes,No
+13/07/2020 11:49,Male,24,BIT,Year 1,3.00 - 3.49,No,Yes,Yes,No,No
+13/07/2020 11:54,Male,24,Engineering,Year 2,2.00 - 2.49,No,Yes,Yes,Yes,Yes
+13/07/2020 13:57,Female,23,DIPLOMA TESL,Year 3,3.50 - 4.00,No,No,No,Yes,No
+13/07/2020 14:38,Male,18,Koe,Year 2,3.00 - 3.49,No,Yes,Yes,No,No
+13/07/2020 14:48,Female,19,KOE,Year 2,3.00 - 3.49,Yes,Yes,No,No,No
+13/07/2020 16:15,Female,18,BENL,Year 1,3.00 - 3.49,No,Yes,No,No,No
+13/07/2020 17:30,Female,24,Fiqh,Year 3,0 - 1.99,No,Yes,Yes,Yes,Yes
+13/07/2020 19:08,Female,18,Islamic Education,Year 1,3.50 - 4.00,No,No,No,No,No
+13/07/2020 19:56,Female,21,BCS,Year 1,3.50 - 4.00,No,No,No,No,No
+13/07/2020 21:21,Male,18,Engineering,Year 1,3.00 - 3.49,No,Yes,Yes,No,No
+13/07/2020 21:22,Female,19,Nursing ,Year 1,3.50 - 4.00,Yes,No,No,Yes,No
+13/07/2020 21:23,Female,23,Pendidikan Islam,Year 4,3.50 - 4.00,No,No,No,No,No
+18/07/2020 20:16,Male,20,Biomedical science,Year 2,3.00 - 3.49,No,Yes,No,No,Yes
+18/07/2020 02:48,Female,20,Laws,Year 1,3.50-3.90,No,No,No,No,No
+18/07/2020 13:48,Female,24,Applied chemistry,Year 2,3.56-3.80,Yes,No,No,No,No
+18/07/2020 14:48,Female,23,BIT,Year 3,3.50-4.00,No,No,No,No,No
+18/07/2020 14:49,Male,21,BCS,Year 2,3.50-3.86,Yes,No,No,Yes,No
+18/07/2020 14:50,Male,21,psychology,Year 2,3.00-3.50,Yes,No,No,No,No
+18/07/2020 14:51,Female,22,CSE,Year 1,3.40-3.90,No,No,No,No,Yes
+18/07/2020 14:52,Male,23,ICT,Year 3,3.20-3.89,No,No,No,No,No
+18/07/2020 14:53,Female,23,Bangla,Year 1,3.50-3.90,No,No,No,No,Yes
+18/07/2020 14:54,Female,23,Laws,Year 2,3.00-3.50,No,No,Yes,No,No
+18/07/2020 14:55,Male,24,Political Science,Year 3,3.50-3.92,Yes,No,No,Yes,No
+18/07/2020 14:56,Male,20,Fiqh,Year 1,3.30-3.90,No,No,No,No,No
+18/07/2020 14:57,Female,21,Nursing ,Year 2,3.40-3.80,Yes,No,No,No,No
+18/07/2020 14:58,Male,21,BIT,Year 2,3.50-3.90,No,No,No,Yes,Yes
+18/07/2020 14:59,Female,20,Fiqh fatwa ,Year 1,3.50-4.00,No,No,No,No,No
+18/07/2020 15:30,Female,23,Radiography,Year 2,3.50-3.65,No,No,Yes,Yes,No
+18/07/2020 15:31,Female,21,Koe,Year 1,3.25-4.00,No,No,No,No,Yes
+18/07/2020 15:32,Male,20,Applied chemistry,Year 1,3.00-3.20,Yes,Yes,Yes,Yes,Yes
+18/07/2020 18:33,Male,22,Statistics,Year 2,3.50-3.80,No,No,No,No,No
+19/07/2020 15:33,Female,24,Management,Year 3,3.00 - 3.49,No,Yes,No,Yes,No
+19/07/2020 15:35,Male,25,Social Work,Year 4,2.00 - 2.49,Yes,Yes,Yes,Yes,Yes
+19/07/2020 15:36,Male,20,Mathemathics,Year 1,3.50 - 4.00,No,No,No,Yes,Yes
+19/07/2020 15:37,Male,21,IT,Year 1,3.00 - 3.49,No,Yes,No,Yes,No
+19/07/2020 15:38,Female,20,ALA,Year 1,3.00 - 3.49,No,Yes,Yes,No,Yes
+19/07/2020 15:33,Male,22,EEE,Year 2,3.00 - 3.49,Yes,Yes,No,Yes,No
+19/07/2020 15:39,Female,23,CSE,Year 2,0 - 1.99,No,Yes,Yes,Yes,Yes
+19/07/2020 15:40,Male,22,Bangla,Year 1,3.50 - 4.00,No,No,No,No,No
+19/07/2020 18:33,Male,20,Chemical Engineering,Year 1,3.50 - 4.00,No,No,No,No,No
+19/07/2020 18:34,Female,24,Accounting ,Year 3,3.00 - 3.49,Yes,Yes,No,Yes,Yes
+19/07/2020 18:34,Male,26,Anthropology,Year 4,3.50 - 4.00,Yes,No,No,Yes,No
+19/07/2020 18:45,Male,21,Applied chemistry,Year 2,3.50 - 4.00,No,No,No,No,No
+19/07/2020 19:46,Female,23,Banking Insurance,Year 2,3.20 - 3.80,Yes,No,No,Yes,No
+20/07/2020 10:31,Male,23,Molecular Biology,Year 3,3.50 - 4.00,Yes,No,No,No,Yes
+20/07/2020 10:32,Female,20,Biochemistry,Year 1,3.00 - 3.49,Yes,Yes,Yes,Yes,Yes
+20/07/2020 10:35,Female,21,BIT,Year 1,3.50-3.90,No,No,No,Yes,No
+20/07/2020 10:37,Male,20,Biomedical science,Year 1,3.56-3.80,No,No,No,No,No
+20/07/2020 10:38,Male,22,Laws,Year 2,3.50-4.00,No,No,No,No,No
+20/07/2020 10:39,Female,24,Nursing ,Year 3,3.50-3.86,Yes,No,No,Yes,No
+20/07/2020 10:41,Female,21,Nursing ,Year 1,3.00-3.50,Yes,No,Yes,No,Yes
+20/07/2020 10:42,Male,20,Botany,Year 1,3.40-3.90,No,No,No,No,No
+20/07/2020 10:42,Male,25,Biomedical Physics,Year 4,3.20-3.89,No,No,No,No,No
+20/07/2020 10:43,Female,20,Ceramic,Year 1,3.50-3.90,No,No,Yes,No,No
+20/07/2020 10:44,Female,26,Koe,Year 4,3.00-3.50,No,No,Yes,No,No
+20/07/2020 11:40,Male,21,CTS ,Year 2,3.50-3.92,Yes,No,No,No,No
+20/07/2020 11:42,Male,22,BENL,Year 2,3.30-3.90,Yes,No,No,Yes,No
+20/07/2020 11:43,Male,23,Fiqh fatwa ,Year 3,3.40-3.80,No,No,No,Yes,Yes
+20/07/2020 11:45,Female,20,Chemistry,Year 1,3.50-3.90,No,No,No,No,No
+20/07/2020 11:46,Female,22,Pharmacology,Year 2,2.50-3.40,No,Yes,Yes,Yes,Yes
+20/07/2020 11:50,Male,23,Clinical Psychology,Year 3,3.20-3.80,Yes,No,No,Yes,No
+22/07/2020 14:25,Male,20,Communication Disorders,Year 1,3.50 - 4.00,Yes,No,No,No,No
+22/07/2020 14:26,Female,23,CSE,Year 2,3.00 - 3.49,No,Yes,Yes,Yes,Yes
+22/07/2020 14:27,Male,22,Craft,Year 2,3.50 - 4.00,No,No,No,No,Yes
+22/07/2020 14:28,Male,25,Criminology,Year 3,3.50 - 4.00,No,No,No,No,Yes
+22/07/2020 14:29,Female,20,Dance,Year 1,3.00 - 3.49,No,Yes,No,Yes,No
+22/07/2020 14:31,Male,22,Devolopment Studies,Year 1,3.50-3.90,Yes,No,No,No,Yes
+22/07/2020 14:31,Female,21,Disaster Science,Year 2,3.56-3.80,No,No,No,No,Yes
+22/07/2020 14:33,Female,21,Climate Resilience,Year 1,3.50-4.00,No,No,No,No,Yes
+22/07/2020 14:34,Male,22,Drawing and Painting,Year 2,3.50-3.86,No,No,No,No,No
+22/07/2020 14:35,Male,24,Economics,Year 3,3.00-3.50,No,No,Yes,No,No
+22/07/2020 14:36,Male,26,Educational and Counselling Psychology,Year 4,3.40-3.90,No,No,Yes,No,Yes
+22/07/2020 14:37,Female,23,EEE,Year 2,3.20-3.89,No,No,No,No,Yes
+22/07/2020 14:40,Male,20,English,Year 1,3.50-3.90,No,No,No,No,No
+22/07/2020 16:20,Female,20,Finance,Year 1,2.50-3.00,Yes,Yes,Yes,Yes,Yes
+22/07/2020 16:22,Male,21,Fisheries,Year 1,3.00-3.25,No,Yes,Yes,No,No
+22/07/2020 16:23,Female,24,Genetic Engineering,Year 3,3.20-3.30,No,Yes,Yes,No,Yes
+22/07/2020 16:24,Male,23,Biotechnology,Year 3,3.40-3.70,Yes,No,No,No,No
+22/07/2020 16:25,Male,23,Geography and Environment,Year 2,3.00-3.54,No,No,Yes,No,No
+22/07/2020 16:28,Female,20,Geology,Year 1,2.80-3.20,No,Yes,Yes,Yes,Yes
+22/07/2020 16:35,Male,22,Graphic Design,Year 2,3.30-3.60,Yes,No,No,Yes,No
+23/07/2020 10:25,Female,22,History of Art,Year 1,3.00 - 3.49,No,Yes,No,Yes,Yes
+23/07/2020 10:26,Male,24,Information Science and Library Management,Year 3,3.50-3.90,No,No,No,Yes,No
+23/07/2020 10:27,Female,21,International Business,Year 2,3.56-3.80,Yes,No,No,No,Yes
+23/07/2020 10:27,Male,23,History and Culture,Year 2,3.50-4.00,No,Yes,Yes,No,No
+23/07/2020 10:30,Male,24,International Relations,Year 3,3.50-3.86,No,No,No,No,No
+23/07/2020 10:32,Male,20,Japanese Studies,Year 1,3.00-3.50,Yes,No,No,No,No
+23/07/2020 10:33,Female,21,Law,Year 1,3.40-3.90,No,No,Yes,No,No
+23/07/2020 10:35,Male,22,IT,Year 2,3.20-3.89,No,No,No,Yes,Yes
+23/07/2020 10:40,Male,21,Linguistics,Year 2,3.50-3.90,Yes,No,No,No,No
+23/07/2020 12:20,Female,20,Management,Year 1,3.00-3.50,No,Yes,Yes,No,Yes
+23/07/2020 12:22,Female,22,MIS,Year 1,3.50-3.92,Yes,No,No,No,No
+23/07/2020 12:23,Female,23,Marketing,Year 2,3.30-3.90,No,No,No,No,No
+23/07/2020 12:24,Male,20,Mass Communication,Year 1,3.40-3.80,No,No,No,No,No
+23/07/2020 12:26,Male,24,Journalism,Year 3,3.50-3.90,Yes,No,No,No,No
+23/07/2020 12:27,Male,26,Mathemathics,Year 4,2.50-3.40,No,Yes,Yes,Yes,Yes
+23/07/2020 12:29,Female,25,Meteorology,Year 4,3.20-3.80,No,No,Yes,No,Yes
+23/07/2020 12:31,Male,20,Microbiology,Year 1,3.50 - 4.00,Yes,No,No,Yes,Yes
+23/07/2020 12:32,Female,21,Music,Year 2,3.00 - 3.49,Yes,Yes,No,No,No
+23/07/2020 12:33,Male,23,Nuclear Engineering,Year 2,3.50 - 4.00,No,No,No,No,No
+24/07/2020 15:35,Male,22,Oceanography,Year 2,3.50 - 4.00,No,No,No,No,No
+24/07/2020 15:36,Female,25,Organization Strategy and Leadership,Year 3,3.00 - 3.49,Yes,Yes,Yes,Yes,No
+24/07/2020 15:38,Male,19,Oriental Art,Year 1,3.00 - 3.49,No,Yes,No,Yes,No
+24/07/2020 15:39,Male,22,Pali and Buddhist Studies,Year 2,2.00 - 2.49,No,Yes,Yes,Yes,Yes
+24/07/2020 15:40,Female,24,Peace and Conflict Studies,Year 3,3.50 - 4.00,No,No,No,No,No
+24/07/2020 15:41,Female,20,Persian Language and Literature,Year 1,3.00 - 3.49,No,Yes,No,Yes,Yes
+24/07/2020 15:42,Male,21,Pharmaceutical Chemistry,Year 2,3.00 - 3.49,Yes,Yes,Yes,No,Yes
+24/07/2020 15:43,Male,24,Pharmaceutical Technology,Year 3,3.00 - 3.49,Yes,Yes,No,No,No
+24/07/2020 15:45,Female,25,Philosophy,Year 4,0 - 1.99,No,Yes,Yes,Yes,Yes
+24/07/2020 15:47,Female,22,Pharmacy,Year 2,3.50 - 4.00,Yes,No,No,No,Yes
+24/07/2020 16:22,Male,20,Physics,Year 1,3.50 - 4.00,Yes,No,No,No,Yes
+24/07/2020 16:23,Female,23,Political Science,Year 2,3.00 - 3.49,No,Yes,Yes,No,No
+24/07/2020 16:24,Male,20,Population Science,Year 1,0 - 1.99,No,Yes,Yes,Yes,Yes
+24/07/2020 16:25,Male,21,Printing and Publication Studies,Year 2,3.50 - 4.00,No,No,No,Yes,Yes
+24/07/2020 16:26,Male,22,Printmaking,Year 2,3.50 - 4.00,Yes,No,No,No,No
+24/07/2020 16:27,Female,24,psychology,Year 3,3.00 - 3.49,Yes,Yes,No,No,No
+24/07/2020 16:28,Male,20,Public Administration,Year 1,3.50 - 4.00,No,No,No,No,No
+24/07/2020 16:29,Male,26,Robotics and Mechatronics Engineering,Year 4,3.50 - 4.00,No,No,No,No,No
+24/07/2020 16:30,Male,21,Sanskrit,Year 2,3.20 - 3.80,Yes,No,No,Yes,No
+24/07/2020 16:32,Male,25,Sculpture,Year 3,3.50 - 4.00,No,No,No,No,No
+24/07/2020 16:32,Female,23,Sociology,Year 2,3.00 - 3.49,No,No,Yes,No,Yes
+24/07/2020 16:33,Female,23,Soil and Environment,Year 2,3.50-3.90,No,No,No,No,Yes
+24/07/2020 16:34,Female,20,Water and Environment,Year 1,3.56-3.80,No,No,No,No,No
+24/07/2020 16:35,Male,25,Statistics,Year 3,3.50-4.00,Yes,No,No,No,No
+24/07/2020 16:37,Male,21,Flim and Photography,Year 1,3.50-3.86,Yes,No,No,No,No
+24/07/2020 16:38,Female,22,Theatre and Performance Studies,Year 2,3.00-3.50,No,No,Yes,No,Yes
+24/07/2020 16:40,Male,25,Theoretical and Computational Chemistry,Year 3,3.40-3.90,Yes,No,No,Yes,No
+24/07/2020 16:41,Male,21,Theoretical Physics,Year 1,3.20-3.89,Yes,No,Yes,No,Yes
+24/07/2020 16:42,Male,20,Tourism and Hospitality Management,Year 1,3.50-3.90,No,No,No,No,No
+24/07/2020 16:44,Female,22,Urdu,Year 2,3.00-3.50,Yes,No,Yes,Yes,No
+24/07/2020 16:46,Male,22,Women and Gender Studies,Year 2,3.50-3.92,No,No,No,No,No
+24/07/2020 16:48,Male,24,Japanese Studies,Year 3,3.30-3.90,No,No,No,Yes,Yes
+25/07/2020 11:49,Male,20,World Religions and Culture,Year 2,2.50 - 2.99,No,Yes,Yes,Yes,Yes
+25/07/2020 11:54,Female,18,Zoology,Year 2,3.50 - 4.00,No,No,No,No,No
+25/07/2020 13:57,Female,19,Public Administration,Year 1,3.50 - 4.00,Yes,No,No,Yes,Yes
+25/07/2020 14:38,Male,18,Public Health,Year 2,3.50 - 4.00,Yes,No,Yes,No,No
+25/07/2020 14:48,Female,24,Marine science,Year 1,3.00 - 3.49,Yes,Yes,No,No,No
+25/07/2020 16:15,Female,24,History,Year 1,3.00 - 3.49,No,Yes,No,Yes,Yes
+25/07/2020 17:30,Female,23,Pali,Year 3,3.50 - 4.00,No,No,No,No,No
+25/07/2020 19:08,Male,18,IER,Year 1,3.50 - 4.00,No,No,No,Yes,No
+25/07/2020 19:56,Male,19,Anthropology,Year 1,3.00 - 3.49,No,Yes,Yes,No,No
+25/07/2020 21:21,Female,18,Criminology,Year 2,3.00 - 3.49,Yes,Yes,Yes,No,Yes
+25/07/2020 21:22,Male,24,Police Science,Year 3,3.50 - 4.00,No,No,No,Yes,No
+25/07/2020 21:23,Female,24,Accounting ,Year 4,3.50 - 4.00,No,No,Yes,No,No
+25/07/2020 20:16,Female,23,Banking and Insurance,Year 2,3.00 - 3.49,Yes,Yes,No,No,No
+25/07/2020 02:48,Male,18,Geography and Environment Science,Year 2,3.00 - 3.49,No,Yes,No,Yes,No
+25/07/2020 13:48,Male,19,ChE,Year 1,3.50 - 4.00,No,No,No,Yes,Yes
+25/07/2020 14:48,Female,18,Chem,Year 2,3.00 - 3.49,No,Yes,Yes,No,No
+25/07/2020 14:49,Male,19,MME,Year 1,3.50 - 4.00,Yes,No,No,No,No
+25/07/2020 14:50,Female,18,CE,Year 1,3.50 - 4.00,No,No,Yes,Yes,Yes
+25/07/2020 14:51,Female,18,Chemical Engineering,Year 3,3.50 - 4.00,Yes,No,No,No,No
+25/07/2020 14:52,Female,19,Matallurgical Engineering,Year 1,3.00 - 3.49,No,Yes,No,Yes,No
+25/07/2020 14:53,Male,18,Glass and Ceramic Engineering,Year 1,3.50 - 4.00,No,No,Yes,No,No
+25/07/2020 14:54,Male,24,BCS,Year 2,3.50 - 4.00,No,No,No,No,No
+25/07/2020 14:55,Female,24,Engineering,Year 3,3.00 - 3.49,Yes,Yes,No,Yes,No
+25/07/2020 14:56,Male,22,Nursing ,Year 4,3.00 - 3.49,Yes,Yes,Yes,Yes,Yes
+25/07/2020 14:57,Male,20,Pendidikan Islam,Year 2,3.50 - 4.00,No,No,No,No,Yes
+25/07/2020 14:58,Male,21,Biomedical science,Year 1,3.50 - 4.00,Yes,No,No,Yes,No
+25/07/2020 14:59,Female,23,Laws,Year 2,3.00 - 3.49,Yes,Yes,Yes,Yes,Yes
+25/07/2020 15:30,Male,18,Applied chemistry,Year 1,2.00 - 2.49,Yes,Yes,Yes,Yes,Yes
+25/07/2020 15:31,Female,19,BIT,Year 1,3.00 - 3.49,No,Yes,Yes,No,No
+26/07/2020 15:32,Male,18,BCS,Year 4,2.50 - 2.99,No,Yes,Yes,Yes,Yes
+26/07/2020 18:33,Male,24,psychology,Year 2,3.50 - 4.00,Yes,No,No,Yes,No
+26/07/2020 15:33,Female,24,CSE,Year 3,2.50 - 2.99,Yes,Yes,Yes,Yes,Yes
+26/07/2020 15:35,Male,23,ICT,Year 1,3.00 - 3.49,No,Yes,No,No,Yes
+26/07/2020 15:36,Male,18,Bangla,Year 2,3.50 - 4.00,Yes,No,No,No,No
+26/07/2020 15:37,Female,19,Laws,Year 3,3.00 - 3.49,No,Yes,Yes,Yes,Yes
+26/07/2020 15:38,Male,20,Political Science,Year 3,0 - 1.99,Yes,Yes,Yes,Yes,Yes
+26/07/2020 15:33,Female,19,Fiqh,Year 1,3.50 - 4.00,No,No,No,No,No
+26/07/2020 15:39,Female,21,Nursing ,Year 1,3.50 - 4.00,No,No,No,No,No
+26/07/2020 15:40,Male,23,BIT,Year 3,3.50 - 4.00,Yes,No,No,No,No
+26/07/2020 18:33,Male,20,Fiqh fatwa ,Year 3,3.50 - 4.00,No,No,No,Yes,Yes
+26/07/2020 18:34,Female,18,Radiography,Year 1,3.00 - 3.49,Yes,Yes,No,Yes,No
+26/07/2020 18:34,Female,23,Koe,Year 1,3.50 - 4.00,No,No,No,No,No
+26/07/2020 18:45,Male,18,Applied chemistry,Year 3,2.50 - 2.99,Yes,Yes,Yes,Yes,Yes
+26/07/2020 19:46,Male,19,Statistics,Year 1,3.50 - 4.00,No,No,No,Yes,No
+26/07/2020 10:31,Female,18,Management,Year 1,3.00 - 3.49,Yes,Yes,Yes,No,No
+26/07/2020 10:32,Female,24,Social Work,Year 1,3.00 - 3.49,No,Yes,Yes,Yes,Yes
+26/07/2020 10:35,Male,24,Human Resources,Year 1,3.50 - 4.00,No,No,No,No,No
+26/07/2020 10:37,Male,23,Irkhs,Year 1,3.00 - 3.49,Yes,Yes,Yes,No,No
+26/07/2020 10:38,Male,18,Psychology,Year 3,3.50 - 4.00,No,No,No,No,No
+26/07/2020 10:39,Female,19,Engineering,Year 3,3.00 - 3.49,No,Yes,No,No,Yes
+26/07/2020 10:41,Female,18,BCS,Year 1,3.50 - 4.00,No,No,No,Yes,No
+26/07/2020 10:42,Male,24,Engineering,Year 4,3.00 - 3.49,No,Yes,Yes,Yes,Yes
+26/07/2020 10:42,Male,24,KENMS,Year 1,3.00 - 3.49,No,Yes,No,No,Yes
+26/07/2020 10:43,Female,18,BCS,Year 3,3.50 - 4.00,No,No,No,No,No
+26/07/2020 10:44,Male,19,Accounting ,Year 3,3.50 - 4.00,No,No,No,No,No
+26/07/2020 11:40,Male,18,ENM,Year 1,3.50 - 4.00,No,No,No,No,No
+26/07/2020 11:42,Female,24,BIT,Year 3,3.50 - 4.00,No,No,No,Yes,No
+26/07/2020 11:43,Male,24,Marine science,Year 1,3.50 - 4.00,No,No,No,Yes,No
+26/07/2020 11:45,Female,23,Engineering,Year 1,3.00 - 3.49,No,Yes,No,Yes,No
+27/07/2020 11:46,Female,18,KOE,Year 2,3.00 - 3.49,No,Yes,No,No,Yes
+27/07/2020 11:50,Male,19,BCS,Year 3,3.50 - 4.00,No,No,No,No,No
+27/07/2020 14:25,Male,18,Engineering,Year 4,3.00 - 3.49,No,Yes,Yes,No,No
+27/07/2020 14:26,Male,24,Graphic Design,Year 2,3.00 - 3.49,No,Yes,No,Yes,No
+27/07/2020 14:27,Female,24,History of Art,Year 2,3.50 - 4.00,No,No,No,Yes,No
+27/07/2020 14:28,Male,19,Information Science and Library Management,Year 1,3.00 - 3.49,No,Yes,No,No,No
+27/07/2020 14:29,Female,19,International Business,Year 2,0 - 1.99,No,Yes,Yes,Yes,Yes
+27/07/2020 14:31,Male,23,History and Culture,Year 1,3.50 - 4.00,No,No,No,Yes,No
+27/07/2020 14:31,Female,18,International Relations,Year 1,3.50 - 4.00,No,No,No,No,No
+27/07/2020 14:33,Male,19,Japanese Studies,Year 3,3.00 - 3.49,No,Yes,No,No,No
+27/07/2020 14:34,Male,18,Law,Year 1,3.50 - 4.00,No,No,No,No,No
+27/07/2020 14:35,Female,24,IT,Year 1,3.50 - 4.00,No,No,No,Yes,No
+27/07/2020 14:36,Male,24,Linguistics,Year 2,3.00 - 3.49,No,Yes,No,Yes,No
+27/07/2020 14:37,Female,23,Management,Year 3,3.50-3.90,Yes,No,No,Yes,No
+27/07/2020 14:40,Male,18,MIS,Year 2,3.56-3.80,No,No,No,No,No
+27/07/2020 16:20,Female,19,Marketing,Year 2,3.50-4.00,No,No,No,No,No
+27/07/2020 16:22,Male,18,Mass Communication,Year 1,3.50-3.86,No,No,No,No,No
+27/07/2020 16:23,Male,24,Journalism,Year 3,3.00-3.50,No,Yes,Yes,Yes,Yes
+27/07/2020 16:24,Male,18,Mathemathics,Year 1,3.40-3.90,No,No,No,Yes,No
+27/07/2020 16:25,Female,21,Meteorology,Year 1,3.20-3.89,No,No,Yes,No,No
+22/07/2020 16:28,Male,18,Microbiology,Year 2,3.50-3.90,No,No,No,Yes,No
+27/07/2020 16:35,Male,19,Music,Year 1,3.00-3.50,No,No,Yes,Yes,Yes
+27/07/2020 10:25,Male,24,Marine science,Year 1,3.50-3.92,No,No,No,Yes,No
+27/07/2020 10:26,Female,24,History,Year 1,3.30-3.90,No,No,No,No,No
+27/07/2020 10:27,Female,23,Pali,Year 3,3.40-3.80,No,No,No,No,No
+27/07/2020 10:27,Male,18,IER,Year 1,3.50-3.90,No,No,No,No,No
+27/07/2020 10:30,Male,19,Anthropology,Year 1,3.50-4.00,No,No,No,No,No
+27/07/2020 10:32,Female,18,Criminology,Year 2,3.50-3.65,No,No,No,No,No
+27/07/2020 10:33,Female,24,Police Science,Year 3,3.25-4.00,No,No,No,Yes,Yes
+27/07/2020 10:35,Male,24,Accounting ,Year 4,3.00-3.20,No,Yes,Yes,Yes,Yes
+27/07/2020 10:40,Male,23,Banking and Insurance,Year 2,3.50-3.80,No,No,No,Yes,No
+27/07/2020 12:20,Female,18,Geography and Environment Science,Year 1,3.00 - 3.49,No,Yes,No,No,Yes
+28/07/2020 13:57,Female,18,Marine science,Year 1,2.00 - 2.49,No,Yes,Yes,Yes,Yes
+28/07/2020 14:38,Male,24,Theatre and Performance Studies,Year 4,3.50 - 4.00,No,No,No,Yes,No
+28/07/2020 14:48,Male,24,Radiography,Year 1,2.50-3.40,Yes,Yes,Yes,Yes,Yes
+28/07/2020 16:15,Male,18,Persian language and literature,Year 3,3.20-3.80,Yes,No,No,Yes,No
+28/07/2020 17:30,Female,19,Law & Land Administration,Year 3,3.50 - 4.00,No,No,No,No,No
+28/07/2020 19:08,Male,18,Mass Communication & Journalism,Year 1,3.00 - 3.49,Yes,Yes,No,Yes,No
+28/07/2020 19:56,Female,24,Information Science & Library Management,Year 3,3.50 - 4.00,No,No,Yes,No,No
+28/07/2020 21:21,Male,24,Public administration,Year 1,3.50 - 4.00,No,No,Yes,Yes,No
+28/07/2020 21:22,Male,23,Anthropology,Year 1,3.00 - 3.49,No,Yes,Yes,No,Yes
+28/07/2020 21:23,Female,18,Linguistics,Year 2,3.00 - 3.49,Yes,Yes,No,No,Yes
+28/07/2020 20:16,Male,19,International Relation,Year 3,2.00 - 2.49,Yes,Yes,Yes,Yes,Yes
+28/07/2020 02:48,Male,18,"Painting, Oriental Art & Printing",Year 4,3.50 - 4.00,Yes,No,No,No,No
+28/07/2020 13:48,Female,24,Pottery & Sculpture,Year 2,3.50 - 4.00,No,No,No,No,No
+28/07/2020 14:48,Male,24,Grafix Design,Year 2,3.00 - 3.49,No,Yes,Yes,No,Yes
+28/07/2020 14:49,Female,19,Crafts & History of art,Year 1,3.50-3.90,No,No,No,No,No
+28/07/2020 14:50,Female,19,Education & Research Institute,Year 2,3.56-3.80,No,No,No,Yes,Yes
+28/07/2020 14:51,Male,23,Accounting and Information Systems,Year 1,3.50-4.00,No,No,No,Yes,No
+28/07/2020 14:52,Male,18,Management studies,Year 1,3.50-3.86,No,No,No,No,No
+28/07/2020 14:53,Female,19,Finance,Year 3,3.00-3.50,Yes,No,Yes,No,No
+28/07/2020 14:54,Female,18,Banking and Insurance,Year 1,3.40-3.90,No,No,No,Yes,No
+28/07/2020 14:55,Male,24,Tourism and Hospitality Management,Year 1,3.20-3.89,Yes,No,No,No,No
+28/07/2020 14:56,Male,24,Business Administration,Year 2,3.50-3.90,Yes,No,No,No,No
+28/07/2020 14:57,Female,23,Naval Architecture and Marine Engineering,Year 3,3.00-3.50,No,Yes,No,No,No
+28/07/2020 14:58,Female,18,Industrial and Production Engineering,Year 2,3.50-3.92,No,No,No,No,No
+28/07/2020 14:59,Male,19,Biomedical Engineering,Year 2,3.30-3.90,No,No,No,Yes,Yes
+28/07/2020 15:30,Male,18,Architecture ,Year 1,3.40-3.80,Yes,No,No,Yes,No
+28/07/2020 15:31,Male,24,Urban and Regional Planning,Year 3,3.50-3.90,No,No,No,No,No
+28/07/2020 15:32,Female,18,Forestry,Year 1,3.50-4.00,No,No,No,Yes,No
+28/07/2020 18:33,Female,21,Geography and Environment Studies,Year 1,3.50-3.65,No,No,No,Yes,No
+28/07/2020 15:33,Male,18,Biochemistry,Year 1,3.25-4.00,Yes,Yes,No,No,No
+28/07/2020 15:35,Female,19,Microbiology,Year 1,3.00-3.20,No,Yes,Yes,Yes,Yes
+28/07/2020 15:36,Female,23,Soil Science,Year 4,3.50-3.80,No,No,No,No,No
+28/07/2020 15:37,Male,20,Genetic Engineering and Biotechnology,Year 2,3.00 - 3.49,No,Yes,Yes,No,Yes
+28/07/2020 15:38,Male,20,Institute of Marine Science,Year 1,2.00 - 2.49,No,Yes,Yes,Yes,Yes
+28/07/2020 15:33,Male,24,Farsi Language and Literature,Year 2,3.50 - 4.00,Yes,No,No,No,No
+28/07/2020 15:39,Female,23,Institute of Education and Research,Year 3,3.00 - 3.49,Yes,Yes,Yes,No,No
+28/07/2020 15:40,Male,21,Bio-Chemistry & Molecular Biology,Year 2,3.00 - 3.49,No,Yes,No,No,No
+28/07/2020 18:33,Female,21,Genetic Engineering & Bio-technology,Year 2,3.00 - 3.49,No,Yes,Yes,No,No
+28/07/2020 18:34,Male,22,Geography & Environmental-science,Year 1,0 - 1.99,No,Yes,Yes,Yes,Yes
+28/07/2020 18:34,Female,23,Land Management & Law,Year 3,3.50 - 4.00,Yes,No,No,No,No
+28/07/2020 18:45,Male,23,Communication & Journalism,Year 1,3.50 - 4.00,No,No,No,No,No
+28/07/2020 19:46,Male,23,Modern Languages,Year 2,3.00 - 3.49,Yes,Yes,Yes,No,No
+28/07/2020 10:43,Female,24,Education Research,Year 3,3.50 - 4.00,No,No,No,Yes,No
+28/07/2020 10:44,Male,20,Fine Arts & Graphics,Year 1,3.50 - 4.00,No,No,No,No,No
+28/07/2020 11:40,Female,21,Drama,Year 2,3.20 - 3.80,Yes,No,Yes,No,Yes
+28/07/2020 11:42,Male,21,Film & Television,Year 2,3.50 - 4.00,No,No,No,No,No
+28/07/2020 11:43,Female,20,Women and Gender Studies,Year 1,3.00 - 3.49,Yes,Yes,Yes,Yes,Yes
+28/07/2020 11:45,Male,23,Japanese Studies,Year 2,3.50-3.90,No,No,Yes,No,No
+28/07/2020 11:46,Male,21,World Religions and Culture,Year 1,3.56-3.80,No,No,No,Yes,No
+28/07/2020 11:50,Female,20,Zoology,Year 1,3.50-4.00,No,No,No,No,No
+28/07/2020 14:25,Male,22,Public Administration,Year 2,3.50-3.86,No,No,No,No,No
+28/07/2020 14:26,Female,24,Public Health,Year 3,3.00-3.50,No,Yes,No,No,No
+29/07/2020 10:32,Female,25,Marine science,Year 4,3.40-3.90,Yes,No,No,Yes,No
+29/07/2020 10:35,Male,20,History,Year 1,3.20-3.89,Yes,No,No,Yes,Yes
+29/07/2020 10:37,Male,21,Pali,Year 1,3.50-3.90,No,No,No,No,Yes
+29/07/2020 10:38,Female,20,IER,Year 1,3.00-3.50,Yes,No,Yes,Yes,No
+29/07/2020 10:39,Female,22,Anthropology,Year 2,3.50-3.92,No,No,No,Yes,No
+29/07/2020 10:41,Male,23,Criminology,Year 2,3.30-3.90,No,No,No,Yes,No
+29/07/2020 10:42,Male,22,Police Science,Year 1,3.40-3.80,No,No,No,No,No
+29/07/2020 10:42,Male,20,Accounting ,Year 1,3.50-3.90,Yes,No,No,No,No
+29/07/2020 10:43,Female,24,Banking and Insurance,Year 3,2.50-3.40,Yes,Yes,Yes,Yes,Yes
+29/07/2020 10:44,Female,26,Geography and Environment Science,Year 4,3.20-3.80,No,No,No,Yes,Yes
+29/07/2020 11:40,Male,21,ChE,Year 2,3.50 - 4.00,Yes,No,No,No,No
+29/07/2020 11:42,Male,23,Chem,Year 2,3.00 - 3.49,No,Yes,No,Yes,No
+29/07/2020 11:43,Female,23,MME,Year 3,3.50 - 4.00,Yes,No,No,No,No
+29/07/2020 11:45,Male,20,CE,Year 1,3.50 - 4.00,Yes,No,No,No,No
+29/07/2020 11:46,Male,21,Chemical Engineering,Year 1,3.00 - 3.49,No,Yes,No,Yes,Yes
+29/07/2020 11:50,Female,20,Matallurgical Engineering,Year 1,3.50-3.90,No,No,Yes,No,Yes
+29/07/2020 14:25,Male,22,Glass and Ceramic Engineering,Year 2,3.56-3.80,Yes,No,No,No,No
+29/07/2020 14:26,Female,24,BCS,Year 3,3.50-4.00,Yes,No,No,No,No
+29/07/2020 14:27,Female,21,Engineering,Year 1,3.50-3.86,No,No,No,Yes,Yes
+29/07/2020 14:28,Male,20,Nursing ,Year 1,3.00-3.50,No,No,Yes,No,No
+29/07/2020 14:29,Male,25,Pendidikan Islam,Year 4,3.40-3.90,No,No,No,Yes,No
+29/07/2020 14:31,Male,20,Biomedical science,Year 1,3.20-3.89,Yes,No,No,No,No
+29/07/2020 14:31,Female,26,Laws,Year 4,3.50-3.90,No,No,No,No,No
+29/07/2020 14:33,Male,21,Applied chemistry,Year 2,2.50-3.00,Yes,Yes,Yes,Yes,Yes
+29/07/2020 14:34,Female,22,BIT,Year 2,3.00-3.25,No,Yes,Yes,No,Yes
+29/07/2020 14:35,Male,23,BCS,Year 3,3.20-3.30,No,Yes,Yes,Yes,No
+29/07/2020 14:36,Female,20,psychology,Year 1,3.40-3.70,No,No,No,No,No
+29/07/2020 14:37,Male,22,CSE,Year 2,3.00-3.54,Yes,Yes,No,No,No
+29/07/2020 14:40,Male,23,ICT,Year 3,2.80-3.20,Yes,Yes,Yes,Yes,Yes
+29/07/2020 16:20,Female,19,Bangla,Year 1,3.30-3.60,No,No,Yes,No,No
+29/07/2020 16:22,Male,18,Laws,Year 4,3.00 - 3.49,No,Yes,Yes,No,No
+29/07/2020 16:23,Female,24,Political Science,Year 2,3.50-3.90,Yes,No,No,No,No
+29/07/2020 16:24,Male,24,Fiqh,Year 3,3.56-3.80,No,No,Yes,Yes,No
+29/07/2020 16:25,Female,23,Nursing ,Year 1,3.50-4.00,No,No,No,No,No
+29/07/2020 16:28,Male,18,BIT,Year 2,3.50-3.86,Yes,No,No,No,Yes
+29/07/2020 16:35,Male,19,Fiqh fatwa ,Year 3,3.00-3.50,No,Yes,Yes,No,No
+30/07/2020 16:22,Female,24,Radiography,Year 1,3.50 - 4.00,Yes,No,No,No,No
+24/07/2020 16:23,Male,24,Koe,Year 2,3.00 - 3.49,Yes,Yes,No,Yes,No
+30/07/2020 16:24,Female,23,Applied chemistry,Year 3,3.00 - 3.49,No,Yes,Yes,No,No
+30/07/2020 16:25,Female,18,Statistics,Year 2,3.50 - 4.00,Yes,No,No,Yes,No
+30/07/2020 16:26,Female,19,Management,Year 2,3.50 - 4.00,Yes,No,No,No,No
+30/07/2020 16:27,Male,18,Operations and Supply Chain Management,Year 1,3.50 - 4.00,No,No,Yes,No,Yes
+30/07/2020 16:28,Female,24,Tourism and Hospitality Management,Year 3,3.50 - 4.00,No,No,No,No,No
+30/07/2020 16:29,Male,18,Doctor of Veterinary Medicine,Year 1,3.50 - 4.00,No,No,No,Yes,No
+30/07/2020 16:30,Female,21,Electronics & Communication Engineering,Year 1,3.00 - 3.49,Yes,Yes,Yes,Yes,Yes
+30/07/2020 16:32,Female,18,Food & Proces Engineering,Year 1,3.00 - 3.49,Yes,Yes,No,No,No
+30/07/2020 16:32,Female,19,Agricultural Engineering,Year 1,3.50 - 4.00,No,No,No,Yes,No
+30/07/2020 16:33,Female,23,Civil Engineering,Year 4,3.00 - 3.49,Yes,Yes,No,Yes,Yes
+30/07/2020 16:34,Female,20,Mechanical Engineering,Year 2,3.00 - 3.49,No,Yes,Yes,No,No
+30/07/2020 16:35,Female,20,Archaeology,Year 1,3.50 - 4.00,No,No,No,Yes,No
+30/07/2020 16:37,Female,24,Anatomy,Year 2,3.00 - 3.49,No,Yes,No,Yes,No
+30/07/2020 16:38,Female,23,Genetics,Year 3,0 - 1.99,No,Yes,Yes,Yes,Yes
+30/07/2020 16:40,Female,21,Molecular,Year 2,3.50 - 4.00,Yes,No,No,No,No
+30/07/2020 16:41,Female,21,Neuroscience,Year 2,3.50 - 4.00,No,No,No,No,No
+30/07/2020 16:42,Female,22,Pathology,Year 1,3.00 - 3.49,No,Yes,No,Yes,No
+30/07/2020 16:44,Male,23,Pharmacology,Year 3,3.00 - 3.49,No,Yes,Yes,No,No
+30/07/2020 16:46,Female,23,Manufacturing,Year 1,0 - 1.99,No,Yes,Yes,Yes,Yes
+30/07/2020 16:48,Female,23,Geology,Year 2,3.50 - 4.00,No,No,No,No,No
+30/07/2020 11:49,Female,24,Geography,Year 3,3.50 - 4.00,Yes,No,No,Yes,No
+30/07/2020 11:54,Male,20,Mechanics,Year 1,3.50 - 4.00,No,No,No,No,No
+30/07/2020 13:57,Male,21,World History,Year 2,3.00 - 3.49,No,Yes,Yes,No,No
+30/07/2020 14:38,Male,21,Mass Communication,Year 2,3.00 - 3.49,No,Yes,No,No,No
+30/07/2020 14:48,Female,20,Journalism,Year 1,3.00 - 3.49,Yes,Yes,No,Yes,No
+30/07/2020 16:15,Female,23,Mathemathics,Year 2,3.50 - 4.00,No,No,No,Yes,No
+30/07/2020 17:30,Female,21,Meteorology,Year 1,3.00 - 3.49,Yes,Yes,Yes,Yes,No
+30/07/2020 19:08,Female,20,Microbiology,Year 1,3.50 - 4.00,Yes,No,No,No,No
+30/07/2020 19:56,Female,22,Music,Year 2,3.00 - 3.49,No,Yes,No,Yes,Yes
+30/07/2020 21:21,Female,24,Nuclear Engineering,Year 3,2.00 - 2.49,No,Yes,Yes,Yes,Yes
+03/08/2020 12:02,Female,25,Oceanography,Year 4,3.50 - 4.00,No,No,No,Yes,Yes
+03/08/2020 12:04,Female,20,Organization Strategy and Leadership,Year 1,3.00 - 3.49,No,Yes,Yes,No,No
+03/08/2020 12:05,Female,21,Oriental Art,Year 1,3.00 - 3.49,Yes,Yes,No,Yes,No
+03/08/2020 12:06,Male,20,Pali and Buddhist Studies,Year 1,3.00 - 3.49,No,Yes,No,No,No
+03/08/2020 12:13,Male,22,Peace and Conflict Studies,Year 2,0 - 1.99,Yes,Yes,Yes,Yes,Yes
+03/08/2020 12:31,Male,23,Persian Language and Literature,Year 2,3.50 - 4.00,No,No,No,Yes,No
+03/08/2020 12:32,Female,22,Pharmaceutical Chemistry,Year 1,3.50 - 4.00,No,No,No,No,No
+03/08/2020 12:33,Female,20,Pharmaceutical Technology,Year 1,3.00 - 3.49,No,Yes,Yes,Yes,Yes
+03/08/2020 12:35,Male,24,Philosophy,Year 3,3.50 - 4.00,No,No,No,No,No
+03/08/2020 12:39,Female,26,Pharmacy,Year 4,3.50 - 4.00,Yes,No,No,No,No
+03/08/2020 12:39,Female,21,Physics,Year 2,3.00 - 3.49,No,Yes,No,No,No
+03/08/2020 12:39,Female,23,Political Science,Year 2,3.50-3.90,No,No,No,No,No
+03/08/2020 12:40,Female,23,Population Science,Year 3,3.56-3.80,Yes,No,No,No,No
+03/08/2020 12:41,Female,20,Applied chemistry,Year 1,3.50-4.00,No,No,No,Yes,No
+03/08/2020 12:43,Female,21,BIT,Year 1,3.50-3.86,No,No,No,Yes,No
+03/08/2020 12:43,Male,20,BCS,Year 1,3.00-3.50,No,No,Yes,No,Yes
+03/08/2020 12:46,Male,22,psychology,Year 2,3.40-3.90,Yes,No,No,No,No
+03/08/2020 12:52,Female,24,CSE,Year 3,3.20-3.89,No,No,No,No,No
+03/08/2020 13:05,Female,21,ICT,Year 1,3.50-3.90,No,No,No,No,No
+03/08/2020 13:07,Female,20,Bangla,Year 1,3.00-3.50,No,No,Yes,No,No
+03/08/2020 13:12,Female,25,Laws,Year 4,3.50-3.92,Yes,No,No,Yes,No
+05/08/2020 13:13,Female,20,Political Science,Year 1,3.30-3.90,Yes,No,No,Yes,No
+05/08/2020 13:13,Female,26,Fiqh,Year 4,3.40-3.80,No,No,Yes,No,No
+05/08/2020 13:15,Female,21,Nursing ,Year 2,3.50-3.90,Yes,No,No,Yes,Yes
+05/08/2020 13:17,Female,22,BIT,Year 2,3.50-4.00,Yes,No,No,No,Yes
+05/08/2020 13:29,Female,23,Fiqh fatwa ,Year 3,3.50-3.65,Yes,No,Yes,Yes,Yes
+05/08/2020 13:35,Female,20,Radiography,Year 1,3.25-4.00,No,Yes,No,Yes,No
+05/08/2020 13:41,Male,22,Koe,Year 2,3.00-3.20,No,Yes,Yes,Yes,No
+05/08/2020 13:58,Female,23,Applied chemistry,Year 3,3.50-3.80,No,No,No,No,No
+05/08/2020 14:05,Female,20,Statistics,Year 1,3.00 - 3.49,Yes,Yes,Yes,Yes,Yes
+05/08/2020 14:27,Female,23,Management,Year 2,2.00 - 2.49,Yes,Yes,Yes,Yes,Yes
+05/08/2020 14:29,Female,22,Social Work,Year 2,3.50 - 4.00,No,No,No,Yes,No
+05/08/2020 14:29,Female,25,Human Resources,Year 3,3.00 - 3.49,No,Yes,No,No,No
+05/08/2020 14:31,Male,20,Banking and Insurance,Year 1,3.00 - 3.49,No,Yes,Yes,No,Yes
+05/08/2020 14:41,Male,22,Geography and Environment Science,Year 1,3.00 - 3.49,No,No,Yes,Yes,No
+05/08/2020 14:43,Female,21,Marine science,Year 2,0 - 1.99,Yes,Yes,Yes,Yes,Yes
+05/08/2020 14:43,Female,21,Theatre and Performance Studies,Year 1,3.50 - 4.00,Yes,No,No,Yes,No
+05/08/2020 14:45,Female,22,Radiography,Year 2,3.50 - 4.00,No,No,No,No,No
+05/08/2020 14:47,Female,24,Persian language and literature,Year 3,3.00 - 3.49,No,Yes,Yes,Yes,Yes
+09/08/2020 11:46,Female,26,Law & Land Administration,Year 4,3.50 - 4.00,No,No,No,Yes,Yes
+09/08/2020 11:50,Female,23,Mass Communication & Journalism,Year 2,3.50 - 4.00,Yes,No,No,Yes,No
+09/08/2020 14:25,Female,20,Information Science & Library Management,Year 1,3.20 - 3.80,Yes,Yes,Yes,No,No
+09/08/2020 14:26,Female,20,Public administration,Year 1,3.50 - 4.00,No,No,No,Yes,No
+09/08/2020 14:27,Female,21,Anthropology,Year 1,3.00 - 3.49,No,No,No,No,No
+09/08/2020 14:28,Male,24,Linguistics,Year 3,3.50-3.90,No,No,No,No,No
+09/08/2020 14:29,Female,23,International Relation,Year 3,3.56-3.80,No,No,No,No,No
+09/08/2020 14:31,Female,23,"Painting, Oriental Art & Printing",Year 2,3.50-4.00,Yes,No,No,No,No
+09/08/2020 14:31,Female,20,Pottery & Sculpture,Year 1,3.50-3.86,No,No,No,No,No
+09/08/2020 14:33,Male,22,Grafix Design,Year 2,3.00-3.50,No,No,No,No,No
+09/08/2020 14:34,Male,22,Crafts & History of art,Year 1,3.40-3.90,No,No,No,No,No
+09/08/2020 14:35,Female,24,Education & Research Institute,Year 3,3.20-3.89,No,Yes,No,No,No
+12/08/2020 14:36,Male,21,Accounting and Information Systems,Year 2,3.50-3.90,No,No,Yes,No,Yes
+12/08/2020 14:37,Female,23,Management studies,Year 2,3.00-3.50,No,Yes,No,No,Yes
+12/08/2020 14:40,Female,24,Finance,Year 3,3.50-3.92,No,No,No,No,No
+12/08/2020 16:20,Female,20,Banking and Insurance,Year 1,3.30-3.90,Yes,No,No,Yes,Yes
+12/08/2020 16:22,Female,21,Tourism and Hospitality Management,Year 1,3.40-3.80,No,No,No,No,No
+12/08/2020 16:23,Female,22,Business Administration,Year 2,3.50-3.90,No,No,No,No,No
+12/08/2020 16:24,Male,21,Naval Architecture and Marine Engineering,Year 2,2.50-3.40,Yes,Yes,Yes,Yes,No
+12/08/2020 16:25,Female,20,Industrial and Production Engineering,Year 1,3.20-3.80,No,No,No,No,No
+12/08/2020 16:28,Female,22,Biomedical Engineering,Year 1,3.50 - 4.00,No,No,No,No,No
+12/08/2020 16:35,Male,23,Architecture ,Year 2,3.00 - 3.49,Yes,Yes,No,Yes,No
+12/08/2020 10:25,Female,20,Urban and Regional Planning,Year 1,3.50 - 4.00,No,No,No,No,No
+12/08/2020 10:26,Female,24,Forestry,Year 3,3.50 - 4.00,No,No,No,Yes,No
+12/08/2020 10:27,Female,26,Geography and Environment Studies,Year 4,3.00 - 3.49,Yes,No,No,No,No
+12/08/2020 10:27,Male,25,Biochemistry,Year 4,3.50-3.90,No,No,No,No,No
+12/08/2020 10:30,Male,20,Microbiology,Year 1,3.56-3.80,No,No,No,No,No
+12/08/2020 10:32,Female,21,Soil Science,Year 2,3.50-4.00,Yes,No,No,No,No
+12/08/2020 10:33,Male,23,Genetic Engineering and Biotechnology,Year 2,3.50-3.86,No,No,Yes,No,No
+12/08/2020 10:35,Female,22,Institute of Marine Science,Year 2,3.00-3.50,No,Yes,No,Yes,Yes
+12/08/2020 10:40,Female,25,Farsi Language and Literature,Year 3,3.40-3.90,Yes,No,No,No,No
